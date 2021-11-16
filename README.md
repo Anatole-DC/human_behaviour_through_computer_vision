@@ -1,4 +1,4 @@
-<h1 text="center">HUMAN BEHAVIOUR THROUGH COMPUTER VISION</h1>
+<h1 align="center">HUMAN BEHAVIOUR THROUGH COMPUTER VISION</h1>
 
 This is the repository concerning my research about the detection of human behaviour using computer vision. My approach is based on human skeleton.
 
